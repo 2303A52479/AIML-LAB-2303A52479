@@ -8,3 +8,4 @@ LAB-6-https://github.com/2303A52479/AIML-LAB-2303A52479/blob/main/AIML_LAB_6.ipy
 LAB-7-https://github.com/2303A52479/AIML-LAB-2303A52479/blob/main/AIML_LAB_7.ipynb
 LAB-8-https://github.com/2303A52479/AIML-LAB-2303A52479/blob/main/AIML_LAB_8.ipynb
 LAB-9-https://github.com/2303A52479/AIML-LAB-2303A52479/blob/main/AIML_LAB_9.ipynb
+LAB-10-https://github.com/2303A52479/AIML-LAB-2303A52479/blob/main/AIML_LAB_10.ipynb
